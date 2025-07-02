@@ -1,8 +1,6 @@
 # 🌈Guidebook of Zaodushi🌈
 - 👋 I‘m Zaodushi
 - 📍 NanJing/Shijiazhuang
-- ✨ bilibili[@魔法少女早读使](https://space.bilibili.com/96481908)
-- ✨ Twitter@ZaoDushi 
 
 
 <!---
